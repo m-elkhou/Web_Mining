@@ -26,6 +26,30 @@ c) Semantic Analysis: is interested in the meaning of sentences considered indiv
 d) Disclosure Integration: handles the relationship between the current sentence and the sentence just before it, to give a meaning to the current one.
 e) Pragmatic Analysis: which determine the meaning of the text in context.
 
+
+
+a) Delete unnecessary data: usernames, emails, hyperlinks, retweets, punctuation, possessives from a noun, duplicate characters, and special characters like smileys.
+
+b) Shorten any elongated words ( → تكبیر(تكبیر
+
+c) Normalize whitespace (convert multiple consecutive whitespace characters into one whitespace character).
+
+d) Convert hashtags into separate words, for example; the hashtag #SentimentAnalysis is converted into two words Sentiment and analysis.
+
+e) Create a function to detect the language used to write the text of tweet (Standard Arab, French or English).
+
+f) Create a function for automatic correction of spelling mistakes.
+
+g) Create a list of contractions to normalize and expand words like (What's=>What is)
+
+h) Delete the suffix of a word until we find the root. For example (Stemming => stem) 
+
+i) Remove tokens of part of speech that are not important to our analysis by using the Part-Of-Speech software of Stanford
+University. This software reads the text and assigns parts of
+speech (noun, verb, adjective) to each word.
+
+j) Remove stopwords of standard Arabic ( ,(...,بعد, إن, أن  French (alors, à, ainsi, ...), and English (about, above, almost,...).
+
 - Topic models: LDA
 ***
 
