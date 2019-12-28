@@ -21,12 +21,16 @@ for discovering what topics Moroccan people are discussing during the two last y
 The NLP system is based on five steps:
 
 a) Lexical Analysis: which is concerned with the structure of words; to analyze this structure, the lexical analysis divides a text into phrases, sentences, and words.
+
 b) Syntactic Analysis: is concentrated on the analysis of the sentence structure by analyzing the words and their relationship within this sentence.
+
 c) Semantic Analysis: is interested in the meaning of sentences considered individually.
+
 d) Disclosure Integration: handles the relationship between the current sentence and the sentence just before it, to give a meaning to the current one.
+
 e) Pragmatic Analysis: which determine the meaning of the text in context.
 
-
+***
 
 a) Delete unnecessary data: usernames, emails, hyperlinks, retweets, punctuation, possessives from a noun, duplicate characters, and special characters like smileys.
 
