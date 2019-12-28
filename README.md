@@ -34,7 +34,7 @@ e) Pragmatic Analysis: which determine the meaning of the text in context.
 
 a) Delete unnecessary data: usernames, emails, hyperlinks, retweets, punctuation, possessives from a noun, duplicate characters, and special characters like smileys.
 
-b) Shorten any elongated words ( → تكبیر(تكبیر
+b) Shorten any elongated words (تكبیر → (تكبیییر
 
 c) Normalize whitespace (convert multiple consecutive whitespace characters into one whitespace character).
 
@@ -52,7 +52,7 @@ i) Remove tokens of part of speech that are not important to our analysis by usi
 University. This software reads the text and assigns parts of
 speech (noun, verb, adjective) to each word.
 
-j) Remove stopwords of standard Arabic ( ,(...,بعد, إن, أن  French (alors, à, ainsi, ...), and English (about, above, almost,...).
+j) Remove stopwords of standard Arabic (...,بعد, إن, أن )  French (alors, à, ainsi, ...), and English (about, above, almost,...).
 
 - Topic models: LDA
 ***
