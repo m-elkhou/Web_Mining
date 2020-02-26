@@ -18,13 +18,13 @@ for discovering what topics Moroccan people are discussing during the two last y
 
 ### Projet 3 : Hespress Scrapy ###
 
-### Projet 4 : Twitter Api (twipy) ###
+### Projet 4 : Twitter Api (tweepy) ###
 
 ### Projet 5 : Scrapy Spider ###
 
 ### Projet 6 : PageRank ###
 
-### Projet 7 : TFIDF _ Information Retrived System (IRS)###
+### Projet 7 : TFIDF _ Information Retrived System (IRS) ###
 
 ***
 
