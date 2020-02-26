@@ -1,0 +1,29 @@
+<graph>
+    <node link="www.page1.com" >
+        <link value="www.page2.com" />
+        <link value="www.page3.com" />
+        <link value="www.page4.com" />
+        <link value="www.page5.com" />
+        <link value="www.page6.com" />
+    </node>
+    <node link="www.page2.com" >
+        <link value="www.page3.com" />
+        <link value="www.page5.com" />
+    </node>
+    <node link="www.page3.com" >
+        <link value="www.page1.com" />
+    </node>
+    <node link="www.page4.com" >
+        <link value="www.page6.com"/>
+        <link value="www.page2.com"/>
+    </node>
+    <node link="www.page5.com" >
+        <link value="www.page2.com" />
+        <link value="www.page3.com" />
+        <link value="www.page5.com" />
+    </node>
+    <node link="www.page6.com" >
+        <link value="www.page3.com"/>
+        <link value="www.page4.com"/>
+    </node>
+</graph>

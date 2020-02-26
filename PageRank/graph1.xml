@@ -1,0 +1,18 @@
+<graph>
+    <node link="page1" >
+        <link value="page2" />
+        <link value="page3" />
+        <link value="page4" />
+    </node>
+    <node link="page2" >
+        <link value="page3" />
+        <link value="page4" />
+    </node>
+    <node link="page3" >
+        <link value="page1" />
+    </node>
+    <node link="page4" >
+        <link value="page3"/>
+        <link value="page1"/>
+    </node>
+</graph>
