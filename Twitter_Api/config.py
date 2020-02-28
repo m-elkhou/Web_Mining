@@ -10,7 +10,7 @@ Created on Sat Oct 12 18:17:48 2019
 #	https://developer.twitter.com/en/apps
 #--------------------------------------------------------------------------------
 
-consumer_key = "Mf2UZRiqWr3ZAV6ZpYlLBKQMn"
-consumer_secret = "W738miMF5P9S7GtFzuV4R8VBs0XrRd3WGroiNAZeeqLlZg5ttK"
-access_token = "1207260584451936256-jGYMa1w2z91RhWqhSTF9vq0rCclANA"
-access_token_secret = "gVXkulB29Dva78cE8NNc3YrhEWynAEBgv4Ll3kGOYbFaw"
+consumer_key = "XXXXXXXXXXXXXXXXXXXXXXX"
+consumer_secret = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+access_token = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+access_token_secret = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
