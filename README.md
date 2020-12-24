@@ -28,16 +28,14 @@ for discovering what topics Moroccan people are discussing during the two last y
 
 ***
 
-### Links
+## Links
 
-- [E-mail : ](mailto:m.elkhou@hotmail.com) m.elkhou@hotmail.com
-- [GitHub : ](https://github.com/m-elkhou) m-elkhou
-- [Linkedin : ](https://www.linkedin.com/in/m-elkhou/) Mohammed EL-KHOU
+[E-mail : ](mailto:m.elkhou@hotmail.com) m.elkhou@hotmail.com
 
-[![LinkedIn Link](https://github.com/m-elkhou/tools-/blob/master/svg/Connect-m-elkhou.svg)](https://www.linkedin.com/in/m-elkhou/)
+<a href="https://www.linkedin.com/in/m-elkhou/"><img src="https://github.com/m-elkhou/tools-/blob/master/svg/Connect-m-elkhou.svg" width=200px/></a>
 
 You can also follow my GitHub Profile to stay updated about my latest projects:
 
-[![GitHub Follow](https://github.com/m-elkhou/tools-/blob/master/svg/Follow-m-elkhou.svg)](https://github.com/m-elkhou)
+<a href="https://github.com/m-elkhou/"><img src="https://github.com/m-elkhou/tools-/blob/master/svg/Follow-m-elkhou.svg" width=200px/></a>
 
 If you liked the repo then kindly support it by giving it a star ⭐!
